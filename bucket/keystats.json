@@ -4,7 +4,7 @@
     "homepage": "https://github.com/debugtheworldbot/keyStats",
     "license": "MIT",
     "url": "https://github.com/debugtheworldbot/keyStats/releases/download/v1.44/KeyStats-Windows-1.44.zip",
-    "hash": "f5380d70d68814ed36e6ee5c8d7eeb11641e9e9d64266ad89c26f38f9ab86356",
+    "hash": "8a6cd25ed7b1d26072114275248e39d26d84baea34836764793be414ee8fa2ee",
     "shortcuts": [
         ["KeyStats.exe", "KeyStats"]
     ],
